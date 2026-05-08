@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omprakash reach me on opaudel@synamedia.com
+- 👋 Hi, I’m @OM reach me on opaudel@synamedia.com
 - 👀 I’m interested in computer science stuffs
 
 <!---
