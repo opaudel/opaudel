@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OM reach me on opaudel@synamedia.com
-- 👀 I’m interested in computer science stuffs
+
 
 <!---
 opaudel/opaudel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
